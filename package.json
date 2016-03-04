@@ -1,0 +1,23 @@
+{
+  "name": "chat-be",
+  "version": "0.0.1",
+  "description": "chat-be",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xdobro4@github.com/xdobro4/chat-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdobro4/chat-be/issues"
+  },
+  "homepage": "https://github.com/xdobro4/chat-be#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
